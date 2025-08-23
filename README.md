@@ -51,7 +51,7 @@ cd <agente_rag-com-next-e-flask\backend>
 #### a. Criar Ambiente Virtual e Instalar Dependências:
 ```bash
 python -m venv venv
-source venv/bin/activate # No Windows use `venv\Scriptsctivate`
+source venv/bin/activate
 pip install -r requirements.txt
 ```
 
