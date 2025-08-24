@@ -11,7 +11,4 @@ langchain-google-genai
 pypdf
 Flask
 Flask-Cors
-python-dotenv 
-langchain-google-genai 
-langchain-core 
-pypdf
+langchain-core
