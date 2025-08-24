@@ -39,7 +39,6 @@ Para executar este projeto, você precisará ter instalado:
 ### 1. Clonar o Repositório
 ```bash
 git clone https://github.com/caio-kenai/agente_rag-com-next-e-flask
-cd meu-projeto-ia
 ```
 
 ### 2. Configuração do Backend (Flask)
