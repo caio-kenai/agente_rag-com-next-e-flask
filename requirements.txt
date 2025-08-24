@@ -12,7 +12,6 @@ pypdf
 Flask
 Flask-Cors
 python-dotenv 
-langchain-chroma 
 langchain-google-genai 
 langchain-core 
 pypdf
