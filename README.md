@@ -38,14 +38,14 @@ Para executar este projeto, você precisará ter instalado:
 
 ### 1. Clonar o Repositório
 ```bash
-git clone <https://github.com/caio-kenai/agente_rag-com-next-e-flask>
+git clone https://github.com/caio-kenai/agente_rag-com-next-e-flask
 cd meu-projeto-ia
 ```
 
 ### 2. Configuração do Backend (Flask)
 Navegue até a pasta do backend (onde está o rag_agent.py e app.py).
 ```bash
-cd <agente_rag-com-next-e-flask\backend> 
+cd agente_rag-com-next-e-flask\backend
 ```
 
 #### a. Criar Ambiente Virtual e Instalar Dependências:
@@ -92,7 +92,7 @@ O backend estará rodando em `http://127.0.0.1:5000`.
 ### 3. Configuração do Frontend (Next.js)
 Navegue até a pasta do frontend (onde está o app/page.tsx).
 ```bash
-cd <agente_rag-com-next-e-flask\meu-projeto-ia>
+cd agente_rag-com-next-e-flask\meu-projeto-ia
 ```
 
 #### a. Instalar Dependências:
