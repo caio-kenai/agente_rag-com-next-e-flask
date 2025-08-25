@@ -20,3 +20,7 @@ def responder_pergunta():
 
 if __name__ == "__main__":
     app.run(debug=True)
+
+# Implementar rota de upload para receber PDFs e atualizar o banco de dados
+# implementar validação no backend para garantir que apenas PDFs sejam aceitos
+# no frontend implementar o uppy para fazer upload dos arquivos

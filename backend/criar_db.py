@@ -37,5 +37,5 @@ def vetorizar_chunks(chunks):
         google_api_key=os.getenv("GOOGLE_API_KEY")
     )
     db = Chroma.from_documents(chunks, embeddings, persist_directory="db")
-    print("Banco de dados criado/atualizado com sucesso!")
+    print("Banco de dados atualizado com sucesso!")
 criar_db()
