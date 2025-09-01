@@ -99,23 +99,6 @@ cd agente_rag-com-next-e-flask\meu-projeto-ia
 npm install # ou yarn install
 ```
 
-#### b. Configurar Tailwind CSS (se necessário):
-Se o Tailwind CSS ainda não estiver configurado em seu projeto Next.js, siga as instruções oficiais de instalação do Tailwind para Next.js. Isso geralmente envolve:
-
-Instalar os pacotes Tailwind:
-```bash
-npm install -D tailwindcss postcss autoprefixer
-```
-
-Inicializar o Tailwind e criar os arquivos de configuração:
-```bash
-npx tailwindcss init -p
-```
-
-Configurar os caminhos para seus arquivos no `tailwind.config.js`.
-
-Adicionar as diretivas Tailwind ao seu arquivo CSS global (ex: `app/globals.css`).
-
 #### c. Iniciar o Servidor de Desenvolvimento:
 ```bash
 npm run dev # ou yarn dev
