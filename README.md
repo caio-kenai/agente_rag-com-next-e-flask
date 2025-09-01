@@ -99,7 +99,7 @@ cd agente_rag-com-next-e-flask\meu-projeto-ia
 npm install # ou yarn install
 ```
 
-#### c. Iniciar o Servidor de Desenvolvimento:
+#### b. Iniciar o Servidor de Desenvolvimento:
 ```bash
 npm run dev # ou yarn dev
 ```
